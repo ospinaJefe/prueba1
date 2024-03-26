@@ -4,3 +4,6 @@ feature
 datos principal
 contenido principal 2
 contenido principal 3
+
+contenido feature 2
+contenido bug 2
